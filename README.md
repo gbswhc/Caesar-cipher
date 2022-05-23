@@ -6,7 +6,7 @@
 
 카이사르 암호는 암호화하고자 하는 내용을 알파벳별로 일정한 거리만큼 밀어서 다른 알파벳으로 치환하는 방식이다.
 
-![캡처.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79d3b879-7501-4967-b8c2-7b6285d914cf/캡처.png)
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/320px-Caesar3.svg.png
 
 - 치환암호 : 일정한 법칙에 따라 평문의 문자 단위를 다른 문자 단위로 치환하는 암호화방식
 
